@@ -4,7 +4,7 @@
 
 A custom, mobile-responsive **ReactJS frontend** that combines product discovery, a sample shopping cart, a device-service catalog, and customer-facing repair status tracking. The project demonstrates interactive UI and local persistence without requiring a backend server.
 
-> **Academic-theme note:** The assignment allows a student-proposed theme **with instructor approval**. This store-and-repair theme is not one of the six named themes, so obtain approval before submitting. All products, prices, orders, repair cases and contact submissions here are fictional demo data.
+
 
 ## Pages and routes
 
