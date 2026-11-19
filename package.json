@@ -1,0 +1,13 @@
+{
+  "name": "bitronix-csci426-phase1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive ReactJS technology store and repair portal frontend for CSCI426 Phase 1",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "serve": "python -m http.server 8000"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-label="Wave Speaker"><defs>
+<linearGradient id="device" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efd3b1"/><stop offset="1" stop-color="#9c6845"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151e35"/><stop offset=".5" stop-color="#9c6845"/><stop offset="1" stop-color="#efd3b1"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".26"/><stop offset="1" stop-color="#ffffff" stop-opacity=".02"/></linearGradient>
+<filter id="shadow" x="-50%" y="-60%" width="200%" height="240%"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<ellipse cx="280" cy="370" rx="152" ry="24" fill="#172137" opacity=".18" filter="url(#shadow)"/>
+<g transform="translate(158 32) rotate(-8 120 170)"><rect x="10" y="12" width="220" height="343" rx="56" fill="#29303e"/><rect x="19" y="20" width="202" height="327" rx="51" fill="url(#device)"/><circle cx="120" cy="116" r="73" fill="#222c3a"/><circle cx="120" cy="116" r="62" fill="#3b4755"/><circle cx="120" cy="116" r="31" fill="url(#device)"/><circle cx="120" cy="264" r="48" fill="#263343"/><circle cx="120" cy="264" r="23" fill="url(#device)"/><circle cx="120" cy="29" r="4" fill="#e9edf5"/></g></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-label="Slate Tablet"><defs>
+<linearGradient id="device" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c9d8ed"/><stop offset="1" stop-color="#526c8b"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151e35"/><stop offset=".5" stop-color="#526c8b"/><stop offset="1" stop-color="#c9d8ed"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".26"/><stop offset="1" stop-color="#ffffff" stop-opacity=".02"/></linearGradient>
+<filter id="shadow" x="-50%" y="-60%" width="200%" height="240%"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<ellipse cx="280" cy="370" rx="152" ry="24" fill="#172137" opacity=".18" filter="url(#shadow)"/>
+<g transform="translate(108 25) rotate(-6 170 180)"><rect x="1" y="0" width="336" height="366" rx="31" fill="#212b3b"/><rect x="12" y="11" width="314" height="344" rx="22" fill="url(#screen)"/><path d="M18 298 Q110 55 323 74 L323 347 H18Z" fill="url(#glass)"/><circle cx="169" cy="6" r="2" fill="#c8d3e6"/></g></svg>

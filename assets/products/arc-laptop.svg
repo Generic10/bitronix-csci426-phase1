@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-label="Arc Laptop"><defs>
+<linearGradient id="device" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4ebde"/><stop offset="1" stop-color="#2e6f6a"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151e35"/><stop offset=".5" stop-color="#2e6f6a"/><stop offset="1" stop-color="#c4ebde"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".26"/><stop offset="1" stop-color="#ffffff" stop-opacity=".02"/></linearGradient>
+<filter id="shadow" x="-50%" y="-60%" width="200%" height="240%"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<ellipse cx="280" cy="370" rx="152" ry="24" fill="#172137" opacity=".18" filter="url(#shadow)"/>
+<g transform="translate(76 65)"><rect x="47" y="0" width="360" height="243" rx="15" fill="#263044"/><rect x="56" y="9" width="342" height="224" rx="8" fill="url(#screen)"/><path d="M68 222 Q190 54 380 26 L380 224 Z" fill="url(#glass)"/><circle cx="226" cy="6" r="2.6" fill="#8898bd"/><path d="M2 258 H452 L417 277 H37 Z" fill="url(#device)" stroke="#5b6678" stroke-opacity=".45"/><path d="M65 258 H387 L383 264 H69 Z" fill="#364158" opacity=".42"/><rect x="186" y="262" width="82" height="9" rx="4" fill="#8a99a8" opacity=".5"/></g></svg>

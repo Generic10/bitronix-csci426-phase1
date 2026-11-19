@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false,
+    "jsx": "react",
+    "target": "ES2018",
+    "module": "none",
+    "outDir": "assets",
+    "skipLibCheck": true,
+    "noEmitOnError": false
+  },
+  "include": ["src/app.jsx"],
+  "exclude": ["assets", "node_modules"]
+}

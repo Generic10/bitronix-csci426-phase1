@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-label="Prism Monitor"><defs>
+<linearGradient id="device" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a2bbed"/><stop offset="1" stop-color="#243d72"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151e35"/><stop offset=".5" stop-color="#243d72"/><stop offset="1" stop-color="#a2bbed"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".26"/><stop offset="1" stop-color="#ffffff" stop-opacity=".02"/></linearGradient>
+<filter id="shadow" x="-50%" y="-60%" width="200%" height="240%"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<ellipse cx="280" cy="370" rx="152" ry="24" fill="#172137" opacity=".18" filter="url(#shadow)"/>
+<g transform="translate(76 32)"><rect x="14" y="25" width="428" height="258" rx="20" fill="#1b2433"/><rect x="23" y="34" width="410" height="239" rx="10" fill="url(#screen)"/><path d="M39 258 Q196 38 410 48 L410 260 Z" fill="url(#glass)"/><rect x="202" y="283" width="50" height="57" fill="#3d4b5b"/><path d="M142 353 Q227 340 313 353 L338 365 H116 Z" fill="url(#device)"/><circle cx="227" cy="278" r="3" fill="#8492a5"/></g></svg>
